@@ -1,2 +1,2 @@
 # AbstractMockingFramework
-This should be a prototype or an test to check how its possible to implement an abstract layer for mocking frameworks.
+A prototype to check if its possible to create an abstraction layer for mocking frameworks.
